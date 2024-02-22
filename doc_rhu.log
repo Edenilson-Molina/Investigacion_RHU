@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  16 FEB 2024 10:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  21 FEB 2024 22:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -426,21 +426,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 34.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 53.
+(Font)              <8> on input line 90.
  [1{C:/Users/Edenilson Molina/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 {C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8
 r.enc}
 
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.85 \end{document}
-                   
 
 ] (doc_rhu.aux
 LaTeX Info: Redefining \. on input line 12.
@@ -450,48 +440,25 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-Package rerunfilecheck Warning: File `doc_rhu.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `doc_rhu.out':
-(rerunfilecheck)             Before: 69CC96AD5ED4DE8055A4A824CB98C21E;1497
-(rerunfilecheck)             After:  58B5B0DBD6A494035FDC55BF0612E0AC;1073.
+Package rerunfilecheck Info: File `doc_rhu.out' has not changed.
+(rerunfilecheck)             Checksum: 7316BFAA710DBAFDC2028CDD8F2F88B3;1627.
  ) 
 Here is how much of TeX's memory you used:
- 10783 strings out of 474486
- 174025 string characters out of 5738527
- 1936542 words of memory out of 5000000
- 32922 multiletter control sequences out of 15000+600000
- 679619 words of font info for 145 fonts, out of 8000000 for 9000
+ 10764 strings out of 474486
+ 173707 string characters out of 5738527
+ 1941542 words of memory out of 5000000
+ 32905 multiletter control sequences out of 15000+600000
+ 674403 words of font info for 143 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 75i,8n,79p,345b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{biography.3} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{biography.2} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{biography.1} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{biography.0} has been referenced but does not exist
-, replaced by a fixed one
-
-<C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
-utmb8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/type1
-/urw/times/utmbi8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX
-/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on doc_rhu.pdf (1 page, 63669 bytes).
+ 75i,6n,79p,560b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
+s/utmb8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/urw/times/utmbi8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiKT
+eX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on doc_rhu.pdf (1 page, 65884 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
  89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
