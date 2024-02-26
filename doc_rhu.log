@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  21 FEB 2024 22:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  26 FEB 2024 12:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -363,8 +363,8 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count281
 \l__pdf_internal_box=\box54
 ) (doc_rhu.aux
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 )
 \openout1 = `doc_rhu.aux'.
 
@@ -425,40 +425,67 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 90.
  [1{C:/Users/Edenilson Molina/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 {C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8
 r.enc}
 
 
+] [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 154.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 16
+1.
+
+(C:\Users\Edenilson Molina\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr
+.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Underfull \hbox (badness 2134) in paragraph at lines 161--162
+[]\T1/ptm/m/n/8 D. Cha-vez, ``Co-mu-ni-ca-ción efec-ti-va en la ges-tión de pro
+-yec-tos,''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\T1/pcr/m/n/8 com / pulse / comunicaci % C3 % B3n-[]efectiva-[]en-[]la-[]gesti 
+%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\T1/pcr/m/n/8 C3 % B3n-[]de-[]proyectos-[]diego-[]chavez-[]1btqf /
+ []
+
+[3
+
 ] (doc_rhu.aux
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 )
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `doc_rhu.out' has not changed.
-(rerunfilecheck)             Checksum: 7316BFAA710DBAFDC2028CDD8F2F88B3;1627.
+(rerunfilecheck)             Checksum: E5115D38C0880ECFBBF7B0BD4FF2A02C;3708.
  ) 
 Here is how much of TeX's memory you used:
- 10764 strings out of 474486
- 173707 string characters out of 5738527
- 1941542 words of memory out of 5000000
- 32905 multiletter control sequences out of 15000+600000
- 674403 words of font info for 143 fonts, out of 8000000 for 9000
+ 10823 strings out of 474486
+ 174609 string characters out of 5738527
+ 1946542 words of memory out of 5000000
+ 32947 multiletter control sequences out of 15000+600000
+ 676131 words of font info for 146 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 75i,6n,79p,560b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
-s/utmb8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/urw/times/utmbi8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiKT
-eX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on doc_rhu.pdf (1 page, 65884 bytes).
+ 75i,6n,79p,560b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/type1/urw/cour
+ier/ucrr8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/urw/times/utmb8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiK
+TeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Edenilson Molina/AppData/Local/
+Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Edenilson Molina/App
+Data/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on doc_rhu.pdf (3 pages, 100573 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 134 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
