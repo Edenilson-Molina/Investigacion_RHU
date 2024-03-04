@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  28 FEB 2024 23:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  1 MAR 2024 11:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -430,37 +430,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 r.enc}
 
 
-] [2]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 140.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 169.
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 17
-6.
+] [2] [3]
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 20
+8.
 
 (C:\Users\Edenilson Molina\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr
 .fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Underfull \hbox (badness 2134) in paragraph at lines 176--177
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 208.
+
+Underfull \hbox (badness 2134) in paragraph at lines 208--209
 []\T1/ptm/m/n/8 D. Cha-vez, ``Co-mu-ni-ca-ción efec-ti-va en la ges-tión de pro
 -yec-tos,''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
 \T1/pcr/m/n/8 com / pulse / comunicaci % C3 % B3n-[]efectiva-[]en-[]la-[]gesti 
 %
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
 \T1/pcr/m/n/8 C3 % B3n-[]de-[]proyectos-[]diego-[]chavez-[]1btqf /
  []
 
-[3] (doc_rhu.aux
+
+Underfull \hbox (badness 3758) in paragraph at lines 211--212
+[]\T1/ptm/m/n/8 C. Or-te-ga, ``Cul-tu-ra Or-ga-ni-za-cio-nal'' \T1/ptm/m/it/8 Q
+ues-tion-Pro\T1/ptm/m/n/8 , 2024. [En lí-
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 211--212
+\T1/ptm/m/n/8 nea]. Dis-po-ni-ble: []$\T1/pcr/m/n/8 https : / / www . questionp
+ro . com / blog / es /
+ []
+
+[4
+
+] (doc_rhu.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -469,14 +480,14 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `doc_rhu.out' has not changed.
-(rerunfilecheck)             Checksum: 16E2FE2F169BCB9BF8BA206FFBD00D80;5028.
+(rerunfilecheck)             Checksum: 0A3AF82B46C3C574338D4C55B8ECC779;7407.
  ) 
 Here is how much of TeX's memory you used:
- 10833 strings out of 474486
- 174789 string characters out of 5738527
+ 10862 strings out of 474486
+ 175279 string characters out of 5738527
  1946542 words of memory out of 5000000
- 32952 multiletter control sequences out of 15000+600000
- 676131 words of font info for 146 fonts, out of 8000000 for 9000
+ 32968 multiletter control sequences out of 15000+600000
+ 673283 words of font info for 144 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  75i,6n,79p,560b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/type1/urw/cour
@@ -485,9 +496,9 @@ ype1/urw/times/utmb8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiK
 TeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Edenilson Molina/AppData/Local/
 Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Edenilson Molina/App
 Data/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on doc_rhu.pdf (3 pages, 104946 bytes).
+Output written on doc_rhu.pdf (4 pages, 116461 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 185 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 217 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 289 words of extra memory for PDF output out of 10000 (max. 10000000)
 
