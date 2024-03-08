@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  7 MAR 2024 13:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  8 MAR 2024 10:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -440,46 +440,46 @@ Underfull \hbox (badness 2401) in paragraph at lines 255--256
 /10 La in-te-li-gen-cia
  []
 
-[6]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 30
-5.
+[6] [7] [8]
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 51
+3.
 
 (C:\Users\Edenilson Molina\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr
 .fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 305.
+(Font)              <8> on input line 513.
 
-Underfull \hbox (badness 2134) in paragraph at lines 305--306
+Underfull \hbox (badness 2134) in paragraph at lines 513--514
 []\T1/ptm/m/n/8 D. Cha-vez, ``Co-mu-ni-ca-ción efec-ti-va en la ges-tión de pro
 -yec-tos,''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--306
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
 \T1/pcr/m/n/8 com / pulse / comunicaci % C3 % B3n-[]efectiva-[]en-[]la-[]gesti 
 %
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--306
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
 \T1/pcr/m/n/8 C3 % B3n-[]de-[]proyectos-[]diego-[]chavez-[]1btqf /
  []
 
 
-Underfull \hbox (badness 3758) in paragraph at lines 308--309
+Underfull \hbox (badness 3758) in paragraph at lines 516--517
 []\T1/ptm/m/n/8 C. Or-te-ga, ``Cul-tu-ra Or-ga-ni-za-cio-nal'' \T1/ptm/m/it/8 Q
 ues-tion-Pro\T1/ptm/m/n/8 , 2024. [En lí-
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 308--309
+Underfull \hbox (badness 1694) in paragraph at lines 516--517
 \T1/ptm/m/n/8 nea]. Dis-po-ni-ble: []$\T1/pcr/m/n/8 https : / / www . questionp
 ro . com / blog / es /
  []
 
-[7] (doc_rhu.aux
+[9] (doc_rhu.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -488,25 +488,25 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `doc_rhu.out' has not changed.
-(rerunfilecheck)             Checksum: 72B51D3F948B5F7D8DC398566FEE2CB2;8574.
+(rerunfilecheck)             Checksum: AD8F042328A1F3CBAA1C430516F3A49C;8822.
  ) 
 Here is how much of TeX's memory you used:
- 10886 strings out of 474486
- 175523 string characters out of 5738527
- 1945542 words of memory out of 5000000
- 32977 multiletter control sequences out of 15000+600000
+ 11008 strings out of 474486
+ 176426 string characters out of 5738527
+ 1953542 words of memory out of 5000000
+ 32978 multiletter control sequences out of 15000+600000
  673283 words of font info for 144 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 75i,6n,79p,2023b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,2023b,653s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/type1/urw/cour
 ier/ucrr8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/urw/times/utmb8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiK
 TeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Edenilson Molina/AppData/Local/
 Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Edenilson Molina/App
 Data/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on doc_rhu.pdf (7 pages, 141581 bytes).
+Output written on doc_rhu.pdf (9 pages, 163357 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 329 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 415 PDF objects out of 1000 (max. 8388607)
+ 184 named destinations out of 1000 (max. 500000)
+ 337 words of extra memory for PDF output out of 10000 (max. 10000000)
 
