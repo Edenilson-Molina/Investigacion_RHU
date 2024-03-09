@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  8 MAR 2024 10:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  8 MAR 2024 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -441,45 +441,209 @@ Underfull \hbox (badness 2401) in paragraph at lines 255--256
  []
 
 [6] [7] [8]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 51
-3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 516.
+<Pregunta13.png, id=308, 556.32843pt x 280.79906pt>
+File: Pregunta13.png Graphic file (type png)
+<use Pregunta13.png>
+Package pdftex.def Info: Pregunta13.png  used on input line 531.
+(pdftex.def)             Requested size: 199.16928pt x 100.52629pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 533.
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+
+ []
+
+<Pregunta14.png, id=310, 560.8453pt x 277.78781pt>
+File: Pregunta14.png Graphic file (type png)
+<use Pregunta14.png>
+Package pdftex.def Info: Pregunta14.png  used on input line 558.
+(pdftex.def)             Requested size: 170.71652pt x 84.55348pt.
+[9 <./Pregunta13.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 560--561
+
+ []
+
+<Pregunta15.png, id=351, 566.115pt x 283.0575pt>
+File: Pregunta15.png Graphic file (type png)
+<use Pregunta15.png>
+Package pdftex.def Info: Pregunta15.png  used on input line 585.
+(pdftex.def)             Requested size: 170.71652pt x 85.35844pt.
+
+Underfull \hbox (badness 1454) in paragraph at lines 587--588
+\T1/ptm/m/it/10 co-men-ta-rios son to-ma-dos en cuen-ta en oca-sio-nes,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
+
+ []
+
+<Pregunta16.png, id=352, 591.71063pt x 278.54062pt>
+File: Pregunta16.png Graphic file (type png)
+<use Pregunta16.png>
+Package pdftex.def Info: Pregunta16.png  used on input line 612.
+(pdftex.def)             Requested size: 170.71652pt x 80.36244pt.
+
+Underfull \hbox (badness 2726) in paragraph at lines 614--615
+\T1/ptm/m/it/10 pa-ra dis-cu-tir pro-ble-mas la-bo-ra-les.La ma-yo-ría, un
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--615
+
+ []
+
+
+Overfull \hbox (7.11105pt too wide) in paragraph at lines 626--638
+ [][] 
+ []
+
+<Pregunta17.png, id=353, 699.36281pt x 304.13625pt>
+File: Pregunta17.png Graphic file (type png)
+<use Pregunta17.png>
+Package pdftex.def Info: Pregunta17.png  used on input line 641.
+(pdftex.def)             Requested size: 199.16928pt x 86.6101pt.
+
+Underfull \hbox (badness 3861) in paragraph at lines 643--644
+\T1/ptm/b/it/10 Análisis: \T1/ptm/m/it/10 Un 44.44$ $% con-si-de-ra la ha-bi-li
+-dad de
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 643--644
+\T1/ptm/m/it/10 re-so-lu-ción de pro-ble-mas co-mo la cua-li-dad más
+ []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 643--644
+\T1/ptm/m/it/10 va-lo-ra-da, lo que in-di-ca que la ca-pa-ci-dad pa-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--644
+
+ []
+
+[10 <./Pregunta14.png> <./Pregunta15.png> <./Pregunta16.png> <./Pregunta17.png>
+]
+<Pregunta18.png, id=375, 490.08093pt x 291.33844pt>
+File: Pregunta18.png Graphic file (type png)
+<use Pregunta18.png>
+Package pdftex.def Info: Pregunta18.png  used on input line 666.
+(pdftex.def)             Requested size: 170.71652pt x 101.48541pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 668--669
+
+ []
+
+<Pregunta19.png, id=376, 354.57469pt x 198.7425pt>
+File: Pregunta19.png Graphic file (type png)
+<use Pregunta19.png>
+Package pdftex.def Info: Pregunta19.png  used on input line 691.
+(pdftex.def)             Requested size: 170.71652pt x 95.68947pt.
+
+Underfull \hbox (badness 2393) in paragraph at lines 693--694
+\T1/ptm/m/it/10 han ex-pe-ri-men-ta-do una re-tro-ali-men-ta-ción in-di-rec-ta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 693--694
+
+ []
+
+<Pregunta20.png, id=377, 383.93437pt x 198.7425pt>
+File: Pregunta20.png Graphic file (type png)
+<use Pregunta20.png>
+Package pdftex.def Info: Pregunta20.png  used on input line 720.
+(pdftex.def)             Requested size: 199.16928pt x 103.10104pt.
+
+Underfull \hbox (badness 1590) in paragraph at lines 722--723
+\T1/ptm/b/it/10 Análisis: \T1/ptm/m/it/10 Se-gún los re-sul-ta-dos de la en-cue
+s-ta, es
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 722--723
+
+ []
+
+<Pregunta21.png, id=378, 465.23813pt x 203.25937pt>
+File: Pregunta21.png Graphic file (type png)
+<use Pregunta21.png>
+Package pdftex.def Info: Pregunta21.png  used on input line 749.
+(pdftex.def)             Requested size: 199.16928pt x 87.01523pt.
+
+Underfull \vbox (badness 1845) has occurred while \output is active []
+
+ [11 <./Pregunta18.png> <./Pregunta19.png> <./Pregunta20.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 751--752
+
+ []
+
+<Pregunta22.png, id=402, 451.6875pt x 197.98969pt>
+File: Pregunta22.png Graphic file (type png)
+<use Pregunta22.png>
+Package pdftex.def Info: Pregunta22.png  used on input line 778.
+(pdftex.def)             Requested size: 199.16928pt x 87.30302pt.
+
+Underfull \hbox (badness 3189) in paragraph at lines 780--781
+\T1/ptm/b/it/10 Análisis: \T1/ptm/m/it/10 Los en-cues-ta-dos su-gie-ren prin-ci
+-pal-men-te
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 780--781
+\T1/ptm/m/it/10 in-di-ca que una co-mu-ni-ca-ción cla-ra y efec-ti-va es
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 780--781
+\T1/ptm/m/it/10 ha-bi-li-da-des y adap-tar-se a cam-bios tec-no-ló-gi-cos.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--781
+
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 80
+4.
 
 (C:\Users\Edenilson Molina\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr
 .fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 513.
-
-Underfull \hbox (badness 2134) in paragraph at lines 513--514
+Underfull \hbox (badness 2134) in paragraph at lines 804--805
 []\T1/ptm/m/n/8 D. Cha-vez, ``Co-mu-ni-ca-ción efec-ti-va en la ges-tión de pro
 -yec-tos,''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 513--514
+Underfull \hbox (badness 10000) in paragraph at lines 804--805
 \T1/pcr/m/n/8 com / pulse / comunicaci % C3 % B3n-[]efectiva-[]en-[]la-[]gesti 
 %
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 513--514
+Underfull \hbox (badness 10000) in paragraph at lines 804--805
 \T1/pcr/m/n/8 C3 % B3n-[]de-[]proyectos-[]diego-[]chavez-[]1btqf /
  []
 
 
-Underfull \hbox (badness 3758) in paragraph at lines 516--517
+Underfull \hbox (badness 3758) in paragraph at lines 807--808
 []\T1/ptm/m/n/8 C. Or-te-ga, ``Cul-tu-ra Or-ga-ni-za-cio-nal'' \T1/ptm/m/it/8 Q
 ues-tion-Pro\T1/ptm/m/n/8 , 2024. [En lí-
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 516--517
+Underfull \hbox (badness 1694) in paragraph at lines 807--808
 \T1/ptm/m/n/8 nea]. Dis-po-ni-ble: []$\T1/pcr/m/n/8 https : / / www . questionp
 ro . com / blog / es /
  []
 
-[9] (doc_rhu.aux
+[12 <./Pregunta21.png> <./Pregunta22.png>] (doc_rhu.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -488,25 +652,25 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `doc_rhu.out' has not changed.
-(rerunfilecheck)             Checksum: AD8F042328A1F3CBAA1C430516F3A49C;8822.
+(rerunfilecheck)             Checksum: 0F6729531349E9D1D9347B2876612BBC;9044.
  ) 
 Here is how much of TeX's memory you used:
- 11008 strings out of 474486
- 176426 string characters out of 5738527
- 1953542 words of memory out of 5000000
- 32978 multiletter control sequences out of 15000+600000
- 673283 words of font info for 144 fonts, out of 8000000 for 9000
+ 11171 strings out of 474486
+ 179160 string characters out of 5738527
+ 1952542 words of memory out of 5000000
+ 33096 multiletter control sequences out of 15000+600000
+ 675486 words of font info for 146 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 75i,6n,79p,2023b,653s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,2023b,653s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/type1/urw/cour
 ier/ucrr8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/urw/times/utmb8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiK
 TeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Edenilson Molina/AppData/Local/
 Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Edenilson Molina/App
 Data/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on doc_rhu.pdf (9 pages, 163357 bytes).
+Output written on doc_rhu.pdf (12 pages, 401999 bytes).
 PDF statistics:
- 415 PDF objects out of 1000 (max. 8388607)
- 184 named destinations out of 1000 (max. 500000)
- 337 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 501 PDF objects out of 1000 (max. 8388607)
+ 227 named destinations out of 1000 (max. 500000)
+ 395 words of extra memory for PDF output out of 10000 (max. 10000000)
 
