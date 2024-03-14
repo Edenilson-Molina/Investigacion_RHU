@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  13 MAR 2024 23:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  14 MAR 2024 16:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -439,62 +439,56 @@ r.enc}
 
 
 ]
-[2] [3] [4] [5]
-Underfull \hbox (badness 2401) in paragraph at lines 246--247
- \T1/ptm/m/it/10 X-B.1. Au-to-con-cien-cia y au-to-ges-tión: [][][] \T1/ptm/m/n
-/10 La in-te-li-gen-cia
- []
-
-[6] [7] [8] [9] [10]
+[2] [3] [4] [5] [6] [7] [8] [9] [10]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 535.
-<Pregunta 1.png, id=358, 422.32782pt x 258.9675pt>
+(Font)              <8> on input line 543.
+<Pregunta 1.png, id=366, 422.32782pt x 258.9675pt>
 File: Pregunta 1.png Graphic file (type png)
 <use Pregunta 1.png>
-Package pdftex.def Info: Pregunta 1.png  used on input line 551.
+Package pdftex.def Info: Pregunta 1.png  used on input line 559.
 (pdftex.def)             Requested size: 199.16928pt x 122.12964pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 555.
+(Font)              <7> on input line 563.
 
-Underfull \hbox (badness 7777) in paragraph at lines 555--556
+Underfull \hbox (badness 7777) in paragraph at lines 563--564
 []\T1/ptm/b/it/10 Análisis:\T1/ptm/m/it/10 Según los re-sul-ta-dos ob-te-ni-dos
  en es-ta
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 555--556
+Underfull \hbox (badness 2799) in paragraph at lines 563--564
 \T1/ptm/m/it/10 emo-cio-nes en di-fe-ren-tes si-tua-cio-nes aca-dé-mi-cas y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--556
+Underfull \hbox (badness 10000) in paragraph at lines 563--564
 
  []
 
-<Pregunta 2.png, id=360, 515.67656pt x 242.40562pt>
+<Pregunta 2.png, id=368, 515.67656pt x 242.40562pt>
 File: Pregunta 2.png Graphic file (type png)
 <use Pregunta 2.png>
-Package pdftex.def Info: Pregunta 2.png  used on input line 578.
+Package pdftex.def Info: Pregunta 2.png  used on input line 586.
 (pdftex.def)             Requested size: 199.16928pt x 93.62419pt.
 
-Underfull \hbox (badness 3039) in paragraph at lines 582--583
+Underfull \hbox (badness 3039) in paragraph at lines 590--591
 \T1/ptm/m/it/10 con-si-de-ra-ron que la com-pren-sión de sus pro-pias
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 582--583
+Underfull \hbox (badness 2495) in paragraph at lines 590--591
 \T1/ptm/m/it/10 aca-dé-mi-co y en su fu-tu-ra ca-rre-ra pro-fe-sio-nal, y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 582--583
+Underfull \hbox (badness 10000) in paragraph at lines 590--591
 
  []
 
-<Pregunta 3.png, id=361, 443.40656pt x 250.68657pt>
+<Pregunta 3.png, id=369, 443.40656pt x 250.68657pt>
 File: Pregunta 3.png Graphic file (type png)
 <use Pregunta 3.png>
-Package pdftex.def Info: Pregunta 3.png  used on input line 605.
+Package pdftex.def Info: Pregunta 3.png  used on input line 613.
 (pdftex.def)             Requested size: 199.16928pt x 112.60516pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -504,106 +498,106 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.610 }
+l.618 }
        \\
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.610 }
+l.618 }
        \\
 pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.610 }
+l.618 }
        \\ <./Pregunta 1.png> <./Pregunta 2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 610--611
+Underfull \hbox (badness 10000) in paragraph at lines 618--619
 \T1/ptm/m/it/10 so-bre sus emo-cio-nes cuan-do en-fren-tan de-sa-fíos
  []
 
 
-Underfull \hbox (badness 5970) in paragraph at lines 610--611
+Underfull \hbox (badness 5970) in paragraph at lines 618--619
 \T1/ptm/m/it/10 ca-pa-ci-dad só-li-da pa-ra ges-tio-nar efi-caz-men-te las
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 610--611
+Underfull \hbox (badness 10000) in paragraph at lines 618--619
 
  []
 
-<Pregunta 4.png, id=374, 481.8pt x 242.40562pt>
+<Pregunta 4.png, id=382, 481.8pt x 242.40562pt>
 File: Pregunta 4.png Graphic file (type png)
 <use Pregunta 4.png>
-Package pdftex.def Info: Pregunta 4.png  used on input line 633.
+Package pdftex.def Info: Pregunta 4.png  used on input line 641.
 (pdftex.def)             Requested size: 199.16928pt x 100.20438pt.
 
-Underfull \hbox (badness 1571) in paragraph at lines 638--639
+Underfull \hbox (badness 1571) in paragraph at lines 646--647
 \T1/ptm/m/it/10 de los en-cues-ta-dos (72.20$ $%) con-si-de-ra-ron que la
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 638--639
+Underfull \hbox (badness 3118) in paragraph at lines 646--647
 \T1/ptm/m/it/10 de ha-bi-li-da-des pro-fe-sio-na-les en el cam-po de la
  []
 
 
-Underfull \hbox (badness 5548) in paragraph at lines 638--639
+Underfull \hbox (badness 5548) in paragraph at lines 646--647
 \T1/ptm/m/it/10 in-ge-nie-ría de sis-te-mas in-for-má-ti-cos. Ade-más, un
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 638--639
+Underfull \hbox (badness 3128) in paragraph at lines 646--647
 \T1/ptm/m/it/10 es im-por-tan-te. Es-tos re-sul-ta-dos re-fle-jan una al-ta
  []
 
 
-Underfull \hbox (badness 2503) in paragraph at lines 638--639
+Underfull \hbox (badness 2503) in paragraph at lines 646--647
 \T1/ptm/m/it/10 re-co-no-cen que las ha-bi-li-da-des emo-cio-na-les, co-mo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 638--639
+Underfull \hbox (badness 10000) in paragraph at lines 646--647
 
  []
 
-<Pregunta 5.png, id=375, 497.60907pt x 245.41687pt>
+<Pregunta 5.png, id=383, 497.60907pt x 245.41687pt>
 File: Pregunta 5.png Graphic file (type png)
 <use Pregunta 5.png>
-Package pdftex.def Info: Pregunta 5.png  used on input line 661.
+Package pdftex.def Info: Pregunta 5.png  used on input line 669.
 (pdftex.def)             Requested size: 199.16928pt x 98.22865pt.
 
-Underfull \hbox (badness 2762) in paragraph at lines 666--667
+Underfull \hbox (badness 2762) in paragraph at lines 674--675
 \T1/ptm/m/it/10 ma-yo-ría de los es-tu-dian-tes en-cues-ta-dos (83.30$ $%)
  []
 
 
-Underfull \hbox (badness 2197) in paragraph at lines 666--667
+Underfull \hbox (badness 2197) in paragraph at lines 674--675
 \T1/ptm/m/it/10 pue-de con-tri-buir al éxi-to aca-dé-mi-co. Ade-más, un
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 666--667
+Underfull \hbox (badness 5741) in paragraph at lines 674--675
 \T1/ptm/m/it/10 16.70$ $% adi-cio-nal in-di-có que en cier-ta me-di-da
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 666--667
+Underfull \hbox (badness 5231) in paragraph at lines 674--675
 \T1/ptm/m/it/10 aca-dé-mi-co en-tre los es-tu-dian-tes en-cues-ta-dos. La
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 666--667
+Underfull \hbox (badness 2443) in paragraph at lines 674--675
 \T1/ptm/m/it/10 al-ta pro-por-ción de es-tu-dian-tes que creen que la
  []
 
 
-Underfull \hbox (badness 3724) in paragraph at lines 666--667
+Underfull \hbox (badness 3724) in paragraph at lines 674--675
 \T1/ptm/m/it/10 só-li-da y ge-ne-ra-li-za-da de la im-por-tan-cia de las
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 666--667
+Underfull \hbox (badness 10000) in paragraph at lines 674--675
 
  []
 
@@ -612,77 +606,77 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.667 
+l.675 
       
 pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.667 
+l.675 
        <./Pregunta 3.png> <./Pregunta 4.png> <./Pregunta 5.png>]
-<Pregunta 6.png, id=387, 509.65407pt x 246.9225pt>
+<Pregunta 6.png, id=395, 509.65407pt x 246.9225pt>
 File: Pregunta 6.png Graphic file (type png)
 <use Pregunta 6.png>
-Package pdftex.def Info: Pregunta 6.png  used on input line 689.
+Package pdftex.def Info: Pregunta 6.png  used on input line 697.
 (pdftex.def)             Requested size: 199.16928pt x 96.4953pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 694--695
+Underfull \hbox (badness 10000) in paragraph at lines 702--703
 []\T1/ptm/b/it/10 Análisis:\T1/ptm/m/it/10 Según lo re-ve-la-do por los es-tu-d
 ian-tes
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 694--695
+Underfull \hbox (badness 3701) in paragraph at lines 702--703
 \T1/ptm/m/it/10 han re-ci-bi-do for-ma-ción o ca-pa-ci-ta-ción es-pe-cí-fi-ca
  []
 
 
-Underfull \hbox (badness 1558) in paragraph at lines 694--695
+Underfull \hbox (badness 1558) in paragraph at lines 702--703
 \T1/ptm/m/it/10 en in-te-li-gen-cia emo-cio-nal du-ran-te sus es-tu-dios de
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 694--695
+Underfull \hbox (badness 2221) in paragraph at lines 702--703
 \T1/ptm/m/it/10 in-ge-nie-ría de sis-te-mas in-for-má-ti-cos. Es-te ha-llaz-go
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 694--695
+Underfull \hbox (badness 1430) in paragraph at lines 702--703
 \T1/ptm/m/it/10 Sin em-bar-go, es alen-ta-dor no-tar que un pe-que-ño
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 694--695
+Underfull \hbox (badness 1635) in paragraph at lines 702--703
 \T1/ptm/m/it/10 ha-bi-li-da-des emo-cio-na-les en su de-sa-rro-llo per-so-nal
  []
 
 
-Underfull \hbox (badness 5637) in paragraph at lines 694--695
+Underfull \hbox (badness 5637) in paragraph at lines 702--703
 \T1/ptm/m/it/10 es-pe-cí-fi-ca en in-te-li-gen-cia emo-cio-nal du-ran-te sus
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 694--695
+Underfull \hbox (badness 10000) in paragraph at lines 702--703
 
  []
 
-<Pregunta 7.png, id=388, 510.40688pt x 253.69781pt>
+<Pregunta 7.png, id=396, 510.40688pt x 253.69781pt>
 File: Pregunta 7.png Graphic file (type png)
 <use Pregunta 7.png>
-Package pdftex.def Info: Pregunta 7.png  used on input line 717.
+Package pdftex.def Info: Pregunta 7.png  used on input line 725.
 (pdftex.def)             Requested size: 199.16928pt x 98.9998pt.
 
-Underfull \hbox (badness 2662) in paragraph at lines 726--727
+Underfull \hbox (badness 2662) in paragraph at lines 734--735
 \T1/ptm/m/it/10 re-sul-ta-dos su-gie-ren que los es-tu-dian-tes re-co-no-cen
  []
 
 
-Underfull \hbox (badness 3049) in paragraph at lines 726--727
+Underfull \hbox (badness 3049) in paragraph at lines 734--735
 \T1/ptm/m/it/10 pue-den con-tri-buir al éxi-to en en-tor-nos la-bo-ra-les
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 726--727
+Underfull \hbox (badness 10000) in paragraph at lines 734--735
 
  []
 
@@ -691,73 +685,73 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.727 
+l.735 
       
 pdfTeX warning (ext4): destination with the same identifier (name{table.7}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.727 
+l.735 
        <./Pregunta 6.png> <./Pregunta 7.png>]
-<Pregunta 8.png, id=400, 529.22719pt x 236.38312pt>
+<Pregunta 8.png, id=408, 529.22719pt x 236.38312pt>
 File: Pregunta 8.png Graphic file (type png)
 <use Pregunta 8.png>
-Package pdftex.def Info: Pregunta 8.png  used on input line 749.
+Package pdftex.def Info: Pregunta 8.png  used on input line 757.
 (pdftex.def)             Requested size: 199.16928pt x 88.96085pt.
 
-Underfull \hbox (badness 7433) in paragraph at lines 755--756
+Underfull \hbox (badness 7433) in paragraph at lines 763--764
 \T1/ptm/m/it/10 con-si-de-ró que la in-te-li-gen-cia emo-cio-nal me-jo-ra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 755--756
+Underfull \hbox (badness 10000) in paragraph at lines 763--764
 \T1/ptm/m/it/10 sig-ni-fi-ca-ti-va-men-te su ca-pa-ci-dad pa-ra re-sol-ver
  []
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 755--756
+Underfull \hbox (badness 3386) in paragraph at lines 763--764
 \T1/ptm/m/it/10 pro-ble-mas de ma-ne-ra efec-ti-va y co-la-bo-ra-ti-va en
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 755--756
+Underfull \hbox (badness 2205) in paragraph at lines 763--764
 \T1/ptm/m/it/10 emo-cio-nal tie-ne un im-pac-to po-si-ti-vo, pe-ro no es
  []
 
 
-Underfull \hbox (badness 4132) in paragraph at lines 755--756
+Underfull \hbox (badness 4132) in paragraph at lines 763--764
 \T1/ptm/m/it/10 de-ter-mi-nan-te. Es-tos re-sul-ta-dos re-fle-jan una cla-ra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 755--756
+Underfull \hbox (badness 10000) in paragraph at lines 763--764
 
  []
 
-<Pregunta 9.png, id=401, 514.92375pt x 247.67531pt>
+<Pregunta 9.png, id=409, 514.92375pt x 247.67531pt>
 File: Pregunta 9.png Graphic file (type png)
 <use Pregunta 9.png>
-Package pdftex.def Info: Pregunta 9.png  used on input line 778.
+Package pdftex.def Info: Pregunta 9.png  used on input line 786.
 (pdftex.def)             Requested size: 199.16928pt x 95.79933pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 785--786
+Underfull \hbox (badness 10000) in paragraph at lines 793--794
 []\T1/ptm/b/it/10 Análisis:\T1/ptm/m/it/10 Los da-tos re-co-lec-ta-dos in-di-ca
 n que la
  []
 
 
-Underfull \hbox (badness 5077) in paragraph at lines 785--786
+Underfull \hbox (badness 5077) in paragraph at lines 793--794
 \T1/ptm/m/it/10 sig-ni-fi-ca-ti-vo (44.40$ $%) in-di-có que la in-te-li-gen-cia
 
  []
 
 
-Underfull \hbox (badness 4582) in paragraph at lines 785--786
+Underfull \hbox (badness 4582) in paragraph at lines 793--794
 \T1/ptm/m/it/10 de con-flic-to den-tro del equi-po. Es-tos re-sul-ta-dos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 785--786
+Underfull \hbox (badness 10000) in paragraph at lines 793--794
 
  []
 
@@ -766,76 +760,76 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.8}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.786 
+l.794 
       
 pdfTeX warning (ext4): destination with the same identifier (name{table.9}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.786 
+l.794 
        <./Pregunta 8.png> <./Pregunta 9.png>]
-<Pregunta10.png, id=412, 518.6878pt x 237.13594pt>
+<Pregunta10.png, id=420, 518.6878pt x 237.13594pt>
 File: Pregunta10.png Graphic file (type png)
 <use Pregunta10.png>
-Package pdftex.def Info: Pregunta10.png  used on input line 808.
+Package pdftex.def Info: Pregunta10.png  used on input line 816.
 (pdftex.def)             Requested size: 199.16928pt x 91.05698pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 3679) in paragraph at lines 814--815
+Underfull \hbox (badness 3679) in paragraph at lines 822--823
 []\T1/ptm/b/it/10 Análisis:\T1/ptm/m/it/10 Los re-sul-ta-dos in-di-can que una 
 ma-yo-ría
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 814--815
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
 \T1/ptm/m/it/10 con-si-de-ró que tan-to el au-to-co-no-ci-mien-to y la
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 814--815
+Underfull \hbox (badness 1668) in paragraph at lines 822--823
 \T1/ptm/m/it/10 au-to-rre-gu-la-ción emo-cio-nal co-mo la em-pa-tía y las
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 814--815
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
 \T1/ptm/m/it/10 ha-bi-li-da-des so-cia-les son igual-men-te im-por-tan-tes
  []
 
 
-Underfull \hbox (badness 4254) in paragraph at lines 814--815
+Underfull \hbox (badness 4254) in paragraph at lines 822--823
 \T1/ptm/m/it/10 pa-ra te-ner éxi-to en pro-yec-tos de in-ge-nie-ría de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 814--815
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
 \T1/ptm/m/it/10 sis-te-mas in-for-má-ti-cos que re-quie-ren tra-ba-jo en
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 814--815
+Underfull \hbox (badness 1424) in paragraph at lines 822--823
 \T1/ptm/m/it/10 ca-te-go-rías de ha-bi-li-da-des emo-cio-na-les su-gie-re una
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 814--815
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
 
  []
 
-<Pregunta11.png, id=413, 418.56375pt x 244.66406pt>
+<Pregunta11.png, id=421, 418.56375pt x 244.66406pt>
 File: Pregunta11.png Graphic file (type png)
 <use Pregunta11.png>
-Package pdftex.def Info: Pregunta11.png  used on input line 837.
+Package pdftex.def Info: Pregunta11.png  used on input line 845.
 (pdftex.def)             Requested size: 199.16928pt x 116.41823pt.
 
-Underfull \hbox (badness 4467) in paragraph at lines 842--843
+Underfull \hbox (badness 4467) in paragraph at lines 850--851
 \T1/ptm/m/it/10 pa-ra ma-ne-jar las re-la-cio-nes in-ter-per-so-na-les, son
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 842--843
+Underfull \hbox (badness 10000) in paragraph at lines 850--851
 
  []
 
@@ -844,44 +838,44 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.10}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.843 
+l.851 
       
 pdfTeX warning (ext4): destination with the same identifier (name{table.11}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.843 
+l.851 
        <./Pregunta10.png> <./Pregunta11.png>]
-<Pregunta12.png, id=424, 511.15968pt x 247.67531pt>
+<Pregunta12.png, id=432, 511.15968pt x 247.67531pt>
 File: Pregunta12.png Graphic file (type png)
 <use Pregunta12.png>
-Package pdftex.def Info: Pregunta12.png  used on input line 865.
+Package pdftex.def Info: Pregunta12.png  used on input line 873.
 (pdftex.def)             Requested size: 199.16928pt x 96.50227pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 872--873
+Underfull \hbox (badness 10000) in paragraph at lines 880--881
 []\T1/ptm/b/it/10 Análisis:\T1/ptm/m/it/10 Los re-sul-ta-dos de la en-cues-ta r
 e-ve-lan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 872--873
+Underfull \hbox (badness 10000) in paragraph at lines 880--881
 
  []
 
-<Pregunta13.png, id=425, 556.32843pt x 280.79906pt>
+<Pregunta13.png, id=433, 556.32843pt x 280.79906pt>
 File: Pregunta13.png Graphic file (type png)
 <use Pregunta13.png>
-Package pdftex.def Info: Pregunta13.png  used on input line 893.
+Package pdftex.def Info: Pregunta13.png  used on input line 901.
 (pdftex.def)             Requested size: 199.16928pt x 100.52629pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 895--896
+Underfull \hbox (badness 10000) in paragraph at lines 903--904
 
  []
 
-<Pregunta14.png, id=426, 560.8453pt x 277.78781pt>
+<Pregunta14.png, id=434, 560.8453pt x 277.78781pt>
 File: Pregunta14.png Graphic file (type png)
 <use Pregunta14.png>
-Package pdftex.def Info: Pregunta14.png  used on input line 921.
+Package pdftex.def Info: Pregunta14.png  used on input line 929.
 (pdftex.def)             Requested size: 170.71652pt x 84.55348pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -891,74 +885,74 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.12}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.922 	\end{figure}
+l.930 	\end{figure}
                    
 pdfTeX warning (ext4): destination with the same identifier (name{table.13}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.922 	\end{figure}
+l.930 	\end{figure}
                     <./Pregunta12.png> <./Pregunta13.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 923--924
+Underfull \hbox (badness 10000) in paragraph at lines 931--932
 
  []
 
-<Pregunta15.png, id=441, 566.115pt x 283.0575pt>
+<Pregunta15.png, id=449, 566.115pt x 283.0575pt>
 File: Pregunta15.png Graphic file (type png)
 <use Pregunta15.png>
-Package pdftex.def Info: Pregunta15.png  used on input line 949.
+Package pdftex.def Info: Pregunta15.png  used on input line 957.
 (pdftex.def)             Requested size: 170.71652pt x 85.35844pt.
 
-Underfull \hbox (badness 1454) in paragraph at lines 951--952
+Underfull \hbox (badness 1454) in paragraph at lines 959--960
 \T1/ptm/m/it/10 co-men-ta-rios son to-ma-dos en cuen-ta en oca-sio-nes,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 951--952
+Underfull \hbox (badness 10000) in paragraph at lines 959--960
 
  []
 
-<Pregunta16.png, id=442, 591.71063pt x 278.54062pt>
+<Pregunta16.png, id=450, 591.71063pt x 278.54062pt>
 File: Pregunta16.png Graphic file (type png)
 <use Pregunta16.png>
-Package pdftex.def Info: Pregunta16.png  used on input line 977.
+Package pdftex.def Info: Pregunta16.png  used on input line 985.
 (pdftex.def)             Requested size: 170.71652pt x 80.36244pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 979--980
+Underfull \hbox (badness 10000) in paragraph at lines 987--988
 
  []
 
 
-Overfull \hbox (7.11105pt too wide) in paragraph at lines 992--1004
+Overfull \hbox (7.11105pt too wide) in paragraph at lines 1000--1012
  [][] 
  []
 
-<Pregunta17.png, id=443, 699.36281pt x 304.13625pt>
+<Pregunta17.png, id=451, 699.36281pt x 304.13625pt>
 File: Pregunta17.png Graphic file (type png)
 <use Pregunta17.png>
-Package pdftex.def Info: Pregunta17.png  used on input line 1007.
+Package pdftex.def Info: Pregunta17.png  used on input line 1015.
 (pdftex.def)             Requested size: 199.16928pt x 86.6101pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 1009--1010
+Underfull \hbox (badness 3861) in paragraph at lines 1017--1018
 \T1/ptm/b/it/10 Análisis: \T1/ptm/m/it/10 Un 44.44$ $% con-si-de-ra la ha-bi-li
 -dad de
  []
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 1009--1010
+Underfull \hbox (badness 4954) in paragraph at lines 1017--1018
 \T1/ptm/m/it/10 re-so-lu-ción de pro-ble-mas co-mo la cua-li-dad más
  []
 
 
-Underfull \hbox (badness 3657) in paragraph at lines 1009--1010
+Underfull \hbox (badness 3657) in paragraph at lines 1017--1018
 \T1/ptm/m/it/10 va-lo-ra-da, lo que in-di-ca que la ca-pa-ci-dad pa-ra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1009--1010
+Underfull \hbox (badness 10000) in paragraph at lines 1017--1018
 
  []
 
@@ -967,64 +961,64 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.14}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1010 		
+l.1018 		
          
 pdfTeX warning (ext4): destination with the same identifier (name{table.15}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1010 		
+l.1018 		
          
 pdfTeX warning (ext4): destination with the same identifier (name{table.16}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1010 		
+l.1018 		
          
 pdfTeX warning (ext4): destination with the same identifier (name{table.17}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1010 		
+l.1018 		
           <./Pregunta14.png> <./Pregunta15.png> <./Pregunta16.png>]
-<Pregunta18.png, id=468, 490.08093pt x 291.33844pt>
+<Pregunta18.png, id=476, 490.08093pt x 291.33844pt>
 File: Pregunta18.png Graphic file (type png)
 <use Pregunta18.png>
-Package pdftex.def Info: Pregunta18.png  used on input line 1033.
+Package pdftex.def Info: Pregunta18.png  used on input line 1041.
 (pdftex.def)             Requested size: 170.71652pt x 101.48541pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1035--1036
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1044
 
  []
 
-<Pregunta19.png, id=469, 354.57469pt x 198.7425pt>
+<Pregunta19.png, id=477, 354.57469pt x 198.7425pt>
 File: Pregunta19.png Graphic file (type png)
 <use Pregunta19.png>
-Package pdftex.def Info: Pregunta19.png  used on input line 1059.
+Package pdftex.def Info: Pregunta19.png  used on input line 1067.
 (pdftex.def)             Requested size: 170.71652pt x 95.68947pt.
 
-Underfull \hbox (badness 2393) in paragraph at lines 1061--1062
+Underfull \hbox (badness 2393) in paragraph at lines 1069--1070
 \T1/ptm/m/it/10 han ex-pe-ri-men-ta-do una re-tro-ali-men-ta-ción in-di-rec-ta
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1061--1062
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1070
 
  []
 
-<Pregunta20.png, id=470, 383.93437pt x 198.7425pt>
+<Pregunta20.png, id=478, 383.93437pt x 198.7425pt>
 File: Pregunta20.png Graphic file (type png)
 <use Pregunta20.png>
-Package pdftex.def Info: Pregunta20.png  used on input line 1089.
+Package pdftex.def Info: Pregunta20.png  used on input line 1097.
 (pdftex.def)             Requested size: 199.16928pt x 103.10104pt.
 
-Underfull \hbox (badness 1590) in paragraph at lines 1091--1092
+Underfull \hbox (badness 1590) in paragraph at lines 1099--1100
 \T1/ptm/b/it/10 Análisis: \T1/ptm/m/it/10 Se-gún los re-sul-ta-dos de la en-cue
 s-ta, es
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1091--1092
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1100
 
  []
 
@@ -1033,57 +1027,57 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.18}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1092 	
+l.1100 	
         
 pdfTeX warning (ext4): destination with the same identifier (name{table.19}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1092 	
+l.1100 	
         
 pdfTeX warning (ext4): destination with the same identifier (name{table.20}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1092 	
+l.1100 	
          <./Pregunta17.png> <./Pregunta18.png> <./Pregunta19.png> <./Pregunta20
 .png>]
-<Pregunta21.png, id=493, 465.23813pt x 203.25937pt>
+<Pregunta21.png, id=501, 465.23813pt x 203.25937pt>
 File: Pregunta21.png Graphic file (type png)
 <use Pregunta21.png>
-Package pdftex.def Info: Pregunta21.png  used on input line 1119.
+Package pdftex.def Info: Pregunta21.png  used on input line 1127.
 (pdftex.def)             Requested size: 199.16928pt x 87.01523pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1121--1122
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1130
 
  []
 
-<Pregunta22.png, id=494, 451.6875pt x 197.98969pt>
+<Pregunta22.png, id=502, 451.6875pt x 197.98969pt>
 File: Pregunta22.png Graphic file (type png)
 <use Pregunta22.png>
-Package pdftex.def Info: Pregunta22.png  used on input line 1149.
+Package pdftex.def Info: Pregunta22.png  used on input line 1157.
 (pdftex.def)             Requested size: 199.16928pt x 87.30302pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 1151--1152
+Underfull \hbox (badness 3189) in paragraph at lines 1159--1160
 \T1/ptm/b/it/10 Análisis: \T1/ptm/m/it/10 Los en-cues-ta-dos su-gie-ren prin-ci
 -pal-men-te
  []
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 1151--1152
+Underfull \hbox (badness 1852) in paragraph at lines 1159--1160
 \T1/ptm/m/it/10 in-di-ca que una co-mu-ni-ca-ción cla-ra y efec-ti-va es
  []
 
 
-Underfull \hbox (badness 5077) in paragraph at lines 1151--1152
+Underfull \hbox (badness 5077) in paragraph at lines 1159--1160
 \T1/ptm/m/it/10 ha-bi-li-da-des y adap-tar-se a cam-bios tec-no-ló-gi-cos.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1151--1152
+Underfull \hbox (badness 10000) in paragraph at lines 1159--1160
 
  []
 
@@ -1092,20 +1086,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.21}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1155 \newpage
+l.1163 \newpage
                
 pdfTeX warning (ext4): destination with the same identifier (name{table.22}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1155 \newpage
+l.1163 \newpage
                 <./Pregunta21.png> <./Pregunta22.png>] [20]
-Underfull \hbox (badness 2376) in paragraph at lines 1195--1197
+Underfull \hbox (badness 2376) in paragraph at lines 1213--1215
 \T1/ptm/m/n/10 emo-cio-nal en el plan de es-tu-dios. Es-ta me-di-da bus-ca
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1195--1197
+Underfull \hbox (badness 10000) in paragraph at lines 1213--1215
 
  []
 
@@ -1113,36 +1107,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 1195--1197
 Underfull \vbox (badness 2837) has occurred while \output is active []
 
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 12
-24.
+42.
 
 (C:\Users\Edenilson Molina\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr
 .fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Underfull \hbox (badness 2134) in paragraph at lines 1224--1225
+Underfull \hbox (badness 2134) in paragraph at lines 1242--1243
 []\T1/ptm/m/n/8 D. Cha-vez, ``Co-mu-ni-ca-ción efec-ti-va en la ges-tión de pro
 -yec-tos,''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1224--1225
+Underfull \hbox (badness 10000) in paragraph at lines 1242--1243
 \T1/pcr/m/n/8 com / pulse / comunicaci % C3 % B3n-[]efectiva-[]en-[]la-[]gesti 
 %
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1224--1225
+Underfull \hbox (badness 10000) in paragraph at lines 1242--1243
 \T1/pcr/m/n/8 C3 % B3n-[]de-[]proyectos-[]diego-[]chavez-[]1btqf /
  []
 
 
-Underfull \hbox (badness 3758) in paragraph at lines 1227--1228
+Underfull \hbox (badness 3758) in paragraph at lines 1245--1246
 []\T1/ptm/m/n/8 C. Or-te-ga, ``Cul-tu-ra Or-ga-ni-za-cio-nal'' \T1/ptm/m/it/8 Q
 ues-tion-Pro\T1/ptm/m/n/8 , 2024. [En lí-
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 1227--1228
+Underfull \hbox (badness 1694) in paragraph at lines 1245--1246
 \T1/ptm/m/n/8 nea]. Dis-po-ni-ble: []$\T1/pcr/m/n/8 https : / / www . questionp
 ro . com / blog / es /
  []
@@ -1156,25 +1150,25 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `doc_rhu.out' has not changed.
-(rerunfilecheck)             Checksum: 9568A4B6FF3E53613973E92B1F6F0CAF;9534.
+(rerunfilecheck)             Checksum: A7FBACCC18FC2C511A556AA33E08A00C;9779.
  ) 
 Here is how much of TeX's memory you used:
- 11429 strings out of 474486
- 183678 string characters out of 5738527
+ 11433 strings out of 474486
+ 183742 string characters out of 5738527
  1948542 words of memory out of 5000000
- 33302 multiletter control sequences out of 15000+600000
+ 33304 multiletter control sequences out of 15000+600000
  681838 words of font info for 149 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 75i,10n,79p,2023b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,2055b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/type1/urw/cour
 ier/ucrr8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/urw/times/utmb8a.pfb><C:/Users/Edenilson Molina/AppData/Local/Programs/MiK
 TeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Edenilson Molina/AppData/Local/
 Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Edenilson Molina/App
 Data/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on doc_rhu.pdf (21 pages, 787192 bytes).
+Output written on doc_rhu.pdf (21 pages, 788833 bytes).
 PDF statistics:
- 615 PDF objects out of 1000 (max. 8388607)
- 273 named destinations out of 1000 (max. 500000)
- 471 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 623 PDF objects out of 1000 (max. 8388607)
+ 275 named destinations out of 1000 (max. 500000)
+ 487 words of extra memory for PDF output out of 10000 (max. 10000000)
 
